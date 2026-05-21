@@ -16,5 +16,5 @@ https://docs.google.com/document/d/1MB0wtk2fC3uHOHwIuOOjk9az0gtyx2Xovmn-A0E7NBU/
 
 Админка: http://127.0.0.1:8000/admin/
 
-OpenAPI: http://127.0.0.1:8000/scema/
+OpenAPI: http://127.0.0.1:8000/schema/
 
