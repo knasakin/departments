@@ -1,5 +1,7 @@
 API организационной структуры
 
+https://docs.google.com/document/d/1MB0wtk2fC3uHOHwIuOOjk9az0gtyx2Xovmn-A0E7NBU/edit?tab=t.0
+
 стэк: Python 3.13 + Django(DRF) + PostgreSQL + Docker + Gunicorn
 
 запуск проекта:
